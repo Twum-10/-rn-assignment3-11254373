@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Main Scree](main_screen.png)
+![Main Screen](main_screen.png)
 
 ## Installation
 
