@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![Main Screen](../screenshot/main_screen.png)
+![Main Screen](./MagicApp/screenshot/main_screen.png)
 
 ## Installation
 
