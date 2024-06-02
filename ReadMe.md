@@ -4,9 +4,9 @@
 - **CategoryList**: A horizontal list of categories such as Exercise, Study, Code, etc.
 - **TaskList**: A list of ongoing tasks with bold titles.
 
-## Screenshots
+## Screenshot
 
-![Main Screen](main_screen.png)
+![Main Scree](main_screen.png)
 
 ## Installation
 
